@@ -6,4 +6,4 @@ Adich Dorcus
 Marion Mwangi
 Mpano Cynthia
 Victory Joseph-George
-Abuk Duot
+AbukDuot
