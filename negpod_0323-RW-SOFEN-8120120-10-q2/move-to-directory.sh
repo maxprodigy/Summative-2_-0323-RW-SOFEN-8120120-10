@@ -1,4 +1,4 @@
-#!/bin/bah
+#!/bin/bash
 
 #create the dir name 
 directory="negpod_0323-RW-SOFEN-8120120-10-q1"
